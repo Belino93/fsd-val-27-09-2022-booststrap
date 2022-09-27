@@ -1,0 +1,11 @@
+body {
+    background-image: url(../images/fondo.jpg);
+}
+
+.btn-submit {
+    width: 90%;
+}
+
+.form-background {
+    background-color: white;
+}
